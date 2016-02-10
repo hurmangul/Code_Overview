@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dagger2WithMVP</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search something in Itunes</string>
+
+    <string name="fragment_artist_list">ArtistListFragment</string>
+</resources>

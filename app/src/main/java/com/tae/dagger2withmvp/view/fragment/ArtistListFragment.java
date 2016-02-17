@@ -36,7 +36,7 @@ import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;
 
 /**
- * Created by Eduardo on 08/02/2016.
+ * Created by Hurman on 08/02/2016.
  */
 public class ArtistListFragment extends BaseFragment implements ArtistViewModel{
 

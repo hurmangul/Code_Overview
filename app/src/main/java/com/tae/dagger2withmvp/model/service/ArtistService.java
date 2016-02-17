@@ -14,7 +14,7 @@ import com.tae.dagger2withmvp.view.base.BaseService;
 import javax.inject.Inject;
 
 /**
- * Created by Eduardo on 08/02/2016.
+ * Created by Hurman on 08/02/2016.
  */
 public class ArtistService extends BaseService {
 

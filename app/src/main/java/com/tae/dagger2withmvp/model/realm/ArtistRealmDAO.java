@@ -1,19 +1,15 @@
 package com.tae.dagger2withmvp.model.realm;
 
-import android.content.Context;
 import android.util.Log;
-
-import com.tae.dagger2withmvp.model.itunesmodel.Result;
 
 import java.util.List;
 
 import io.realm.Realm;
 import io.realm.RealmAsyncTask;
-import io.realm.RealmQuery;
 import io.realm.RealmResults;
 
 /**
- * Created by Eduardo on 09/02/2016.
+ * Created by Hurman on 09/02/2016.
  */
 public class ArtistRealmDAO {
 

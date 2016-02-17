@@ -5,15 +5,13 @@ import android.util.Log;
 
 import com.tae.dagger2withmvp.model.realm.ArtistRealmDAO;
 
-import javax.inject.Singleton;
-
 import dagger.Module;
 import dagger.Provides;
 import io.realm.Realm;
 import io.realm.RealmConfiguration;
 
 /**
- * Created by Eduardo on 09/02/2016.
+ * Created by Hurman on 09/02/2016.
  */
 
 @Module

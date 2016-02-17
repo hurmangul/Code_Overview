@@ -3,20 +3,16 @@ package com.tae.dagger2withmvp;
 import android.app.Application;
 import android.content.Context;
 
-
 import com.tae.dagger2withmvp.dagger2.component.DaggerNetworkComponent;
 import com.tae.dagger2withmvp.dagger2.component.DaggerRealmComponent;
 import com.tae.dagger2withmvp.dagger2.component.NetworkComponent;
 import com.tae.dagger2withmvp.dagger2.component.RealmComponent;
 import com.tae.dagger2withmvp.dagger2.module.ApplicationModule;
-import com.tae.dagger2withmvp.dagger2.module.InteractorModule;
 import com.tae.dagger2withmvp.dagger2.module.NetworkModule;
-import com.tae.dagger2withmvp.dagger2.module.RealmInteractorModule;
 import com.tae.dagger2withmvp.dagger2.module.RealmModule;
-import com.tae.dagger2withmvp.presenter.RealmPresenter;
 
 /**
- * Created by Eduardo on 04/02/2016.
+ * Created by Hurman on 04/02/2016.
  */
 public class MyApp extends Application {
 

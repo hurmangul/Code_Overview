@@ -1,13 +1,11 @@
 package com.tae.dagger2withmvp.model.api.retrofit;
 
-import com.tae.dagger2withmvp.dagger2.component.NetworkComponent;
-
 import retrofit.GsonConverterFactory;
 import retrofit.Retrofit;
 import retrofit.RxJavaCallAdapterFactory;
 
 /**
- * Created by Eduardo on 04/02/2016.
+ * Created by Hurman on 04/02/2016.
  * This class create a singleton with an instance of the Retrofit object
  *
  * TODO is this need it?

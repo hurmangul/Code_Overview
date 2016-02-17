@@ -1,14 +1,12 @@
 package com.tae.dagger2withmvp.view.base;
 
 import android.app.IntentService;
-import android.content.Context;
-import android.content.Intent;
 
 import com.tae.dagger2withmvp.MyApp;
 import com.tae.dagger2withmvp.dagger2.component.NetworkComponent;
 
 /**
- * Created by Eduardo on 08/02/2016.
+ * Created by Hurman on 08/02/2016.
  */
 public abstract class BaseService extends IntentService {
 

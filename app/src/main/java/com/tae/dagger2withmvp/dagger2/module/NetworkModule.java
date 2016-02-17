@@ -7,11 +7,8 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.logging.HttpLoggingInterceptor;
-import com.tae.dagger2withmvp.model.api.retrofit.ItunesApiAdapter;
 import com.tae.dagger2withmvp.model.api.retrofit.ItunesApiService;
 import com.tae.dagger2withmvp.model.api.retrofit.NetworkConstants;
-
-import javax.inject.Singleton;
 
 import dagger.Module;
 import dagger.Provides;
@@ -20,7 +17,7 @@ import retrofit.Retrofit;
 import retrofit.RxJavaCallAdapterFactory;
 
 /**
- * Created by Eduardo on 05/02/2016.
+ * Created by Hurman on 05/02/2016.
  *
  * This module will provide the instances needed to create the dependencies for the NetworkComponent
  */

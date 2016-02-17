@@ -4,12 +4,11 @@ import android.util.Log;
 
 import com.tae.dagger2withmvp.interactor.RealmInteractor;
 import com.tae.dagger2withmvp.model.itunesmodel.Result;
-import com.tae.dagger2withmvp.model.realm.ArtistRealm;
 
 import java.util.List;
 
 /**
- * Created by Eduardo on 09/02/2016.
+ * Created by Hurman on 09/02/2016.
  *
  */
 public class RealmPresenter {

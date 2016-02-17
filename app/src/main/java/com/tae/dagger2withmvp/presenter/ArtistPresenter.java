@@ -3,7 +3,6 @@ package com.tae.dagger2withmvp.presenter;
 import android.util.Log;
 
 import com.tae.dagger2withmvp.interactor.ArtistInteractor;
-import com.tae.dagger2withmvp.interactor.RealmInteractor;
 import com.tae.dagger2withmvp.model.api.callback.ArtistCallback;
 import com.tae.dagger2withmvp.model.itunesmodel.Result;
 import com.tae.dagger2withmvp.view.base.BasePresenter;
@@ -12,7 +11,7 @@ import com.tae.dagger2withmvp.view.viewmodel.ArtistViewModel;
 import java.util.List;
 
 /**
- * Created by Eduardo on 04/02/2016.
+ * Created by Hurman on 04/02/2016.
  *
  * The ArtistPresenter receive an input from the view, then will use an Interactor to get the data
  * and finally will update the UI

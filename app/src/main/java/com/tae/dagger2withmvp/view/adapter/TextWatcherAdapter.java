@@ -24,7 +24,7 @@ import com.tae.dagger2withmvp.view.custom.ClearableEditText;
 
 
 /**
- * Created by Alex Yanchenko
+ * Created by Hurman
  *
  * A simplified TextWatcher that helps to {@link ClearableEditText} to know when text is changing.
  * */

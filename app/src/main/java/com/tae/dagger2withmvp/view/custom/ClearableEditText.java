@@ -28,7 +28,7 @@ import com.tae.dagger2withmvp.view.adapter.TextWatcherAdapter;
 
 
 /**
- * Created by Alex Yanchenko
+ * Created by Hurman
  *
  * A modification of EditText class to have a such behavior of SearchView, this mean
  * when the user type something, a clear icon appear in the right side.

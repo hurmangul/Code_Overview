@@ -4,15 +4,12 @@ import android.util.Log;
 
 import com.tae.dagger2withmvp.interactor.ArtistInteractor;
 import com.tae.dagger2withmvp.model.api.retrofit.ItunesApiService;
-import com.tae.dagger2withmvp.model.realm.ArtistRealmDAO;
-
-import javax.inject.Singleton;
 
 import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by Eduardo on 07/02/2016.
+ * Created by Hurman on 07/02/2016.
  * This module returns the interactor to do the job for the Presenter
  *
  * At the moment no constructor with parameters needed

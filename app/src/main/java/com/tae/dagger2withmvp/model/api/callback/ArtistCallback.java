@@ -1,13 +1,11 @@
 package com.tae.dagger2withmvp.model.api.callback;
 
-import com.tae.dagger2withmvp.model.itunesmodel.Itunes;
 import com.tae.dagger2withmvp.model.itunesmodel.Result;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Eduardo on 04/02/2016.
+ * Created by Hurman on 04/02/2016.
  *
  * Callback to communicate the results to ArtistSearchPresenter
  */
